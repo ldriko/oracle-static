@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.49fa00035b4b15cab1ecab2b19a639cf.js"
+  "/precache-manifest.a8490e594d6c0628e42f5992975839d6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Oracle"});
